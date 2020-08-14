@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.alibaba.otter:canal.client:1.0.24">
+    <CLASSES>
+      <root url="jar://D:/maven/com/alibaba/otter/canal.client/1.0.24/canal.client-1.0.24.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/maven/com/alibaba/otter/canal.client/1.0.24/canal.client-1.0.24-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/maven/com/alibaba/otter/canal.client/1.0.24/canal.client-1.0.24-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
