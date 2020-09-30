@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.star.sync</groupId>
-    <artifactId>canal-mysql-elasticsearch-sync</artifactId>
+    <artifactId>canal-mysql-clickhouse-sync</artifactId>
     <version>1.0.4</version>
     <packaging>jar</packaging>
 
